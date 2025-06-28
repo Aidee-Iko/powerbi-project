@@ -1,0 +1,1014 @@
+ID,Name,Gender,Department,Salary,Location,Rating
+1,Ches Bonnell,Male,Sales,"$88,050",Lagos,Very Good
+2,Garwin Peasegood,Female,Engineering,"$68,220",Lagos,Good
+3,Sidoney Yitzhok,Female,Others,"$118,440",Abuja,Not Rated
+4,Saunders Blumson,Male,Legal,"$56,370",Kaduna,Very Good
+5,Gardy Grigorey,Female,Support,"$107,090",Kaduna,Poor
+6,Marlie Charsley,Male,Support,"$108,450",Abuja,Poor
+7,Adella Hartshorne,Female,Human Resources,"$41,160",Lagos,Average
+8,Rasla Fisby,Male,Legal,"$109,000",Abuja,Very Good
+9,Rayna Gamlin,Male,Services,"$73,770",Abuja,Average
+10,Willi Vasey,Female,Support,"$43,020",Kaduna,Average
+11,Selby Hacker,Male,Business Development,"$37,800",Lagos,Average
+12,Stefa Eggleston,Male,Sales,"$88,380",Kaduna,Average
+13,Phylys Benitez,Female,Product Management,"$84,420",Abuja,Average
+14,Ronnie Sinyard,Female,Legal,"$101,760",Abuja,Good
+15,Axel Grigaut,Male,Sales,"$110,780",Abuja,Poor
+16,Timmi Durran,Male,Human Resources,"$68,430",Abuja,Good
+17,Minna Showler,Female,Training,"$105,370",Kaduna,Good
+18,Dyanne Strafen,Male,Engineering,"$113,800",Lagos,Average
+19,Dorolice Farry,Female,Sales,"$76,300",Kaduna,Average
+20,Elliot Tuplin,Female,Sales,"$44,530",Kaduna,Average
+21,Lion Adcock,Female,Legal,"$63,710",Lagos,Average
+22,Vic Radolf,Female,Product Management,"$62,780",Abuja,Very Good
+23,Tiffani Mecozzi,Female,Training,"$119,750",Lagos,Average
+24,Jeane Bermingham,Male,Research and Development,"$116,980",Kaduna,Very Poor
+25,Gavan Puttan,Male,Accounting,"$35,940",Abuja,Good
+26,Danielle Johananoff,Male,Services,"$109,040",Lagos,Average
+27,Rafaelita Blaksland,Female,Services,"$109,160",Kaduna,Good
+28,Brit Hamnett,Male,Human Resources,"$75,540",Abuja,Average
+29,Mable Phythian,Female,Engineering,"$30,000",Kaduna,Average
+30,Joella Maevela,Female,Sales,"$76,210",Abuja,Good
+31,Mollie Hanway,Male,Others,"$112,650",Lagos,Average
+32,Obidiah Westrope,Male,Legal,"$108,460",Kaduna,Good
+33,Murry Dryburgh,Male,Research and Development,"$69,070",Kaduna,Poor
+34,Abbie Tann,Female,Business Development,"$116,520",Lagos,Good
+35,Aluin Churly,Female,Research and Development,"$96,560",Kaduna,Not Rated
+36,Bennett Gimenez,Female,Human Resources,"$36,460",Abuja,Good
+37,Isa Mogie,Female,Training,"$50,950",Kaduna,Good
+38,Yves Clunie,Female,Marketing,"$75,440",Lagos,Average
+39,Iain Wiburn,Female,Sales,"$84,760",Kaduna,Average
+40,Nonah Bissell,Male,Engineering,"$82,240",Kaduna,Poor
+41,Mendel Gentsch,Male,Human Resources,"$28,330",Lagos,Very Poor
+42,Alfred Peplay,Female,Human Resources,"$60,580",Lagos,Very Good
+43,Adelina Cheeseman,Male,Support,"$45,510",Kaduna,Very Good
+44,Minetta Parsons,Female,Human Resources,"$110,770",Abuja,Good
+45,Hobard Benninger,Female,Product Management,"$86,920",Abuja,Average
+46,Fancy Bonin,Male,Training,"$84,680",Lagos,Good
+47,Laura Gomar,Female,Research and Development,"$36,860",Lagos,Poor
+48,Beatrix Schoales,Male,Sales,"$114,010",Kaduna,Average
+49,Clemmie Hebblewaite,Male,Services,"$54,130",Kaduna,Very Poor
+50,Issie Crippes,Female,Product Management,"$81,720",Abuja,Very Good
+51,Vasily MacVanamy,Male,Human Resources,"$84,470",Lagos,Average
+52,Aile Strathearn,Female,Marketing,"$114,600",Lagos,Good
+53,Shellysheldon Mahady,Male,Training,"$114,690",Lagos,Very Poor
+54,Laney Renne,Male,Engineering,"$57,350",Kaduna,Good
+55,Trace Sidsaff,Female,Accounting,"$51,200",Kaduna,Poor
+56,Kelly Corkitt,Female,Human Resources,"$85,260",Lagos,Poor
+57,Karlen McCaffrey,Female,Services,"$71,230",Kaduna,Very Poor
+58,Jordain Sparkwill,Female,Product Management,"$107,660",Abuja,Good
+59,Billie Croucher,Female,Engineering,"$75,230",Kaduna,Poor
+60,Izzy Brisco,Female,Marketing,"$108,080",Abuja,Average
+61,Ignacius Losel,Male,Legal,"$28,480",Kaduna,Good
+62,Peggi Bullas,Male,Support,"$56,620",Abuja,Average
+63,Bab Bridger,Male,Others,"$87,900",Kaduna,Average
+64,Dyna Doucette,Male,Sales,"$103,550",Abuja,Average
+65,Marcellina Kitt,Female,Business Development,"$78,500",Kaduna,Very Good
+66,Shela Goade,Male,Legal,"$93,930",Kaduna,Good
+67,Gwenneth Fealey,Female,Others,"$114,770",Abuja,Average
+68,Kerrie Cockshutt,Male,Others,"$73,530",Lagos,Average
+69,Christopher Kezourec,Male,Training,"$55,310",Kaduna,Very Poor
+70,Larry Pioch,Male,Research and Development,"$49,670",Abuja,Poor
+71,Bethanne Shoppee,Female,Support,"$73,770",Abuja,Good
+72,Reidar Skechley,Male,Product Management,"$40,770",Abuja,Average
+73,Bari Toffano,Male,Product Management,"$106,780",Kaduna,Poor
+74,Robinia Scholling,Female,Human Resources,"$100,730",Kaduna,Average
+75,Grover Cooksey,Male,Services,"$74,620",Kaduna,Poor
+76,Layton Crayden,Male,Product Management,"$40,450",Kaduna,Average
+77,Marlowe Constantine,Male,Services,"$60,560",Abuja,Average
+78,Rhianna McLeoid,Male,Legal,"$114,900",Kaduna,Average
+79,Alida Welman,Male,Human Resources,"$69,860",Kaduna,Average
+80,Jacobo Lasham,Female,Services,"$51,320",Kaduna,Very Poor
+81,Rhody Odhams,Male,Training,"$103,600",Lagos,Good
+82,Zach Polon,Male,Marketing,"$53,540",Kaduna,Poor
+83,Taddeo Jovis,Female,Sales,"$98,740",Abuja,Poor
+84,Katerine Lohden,Male,Support,"$115,090",Kaduna,Average
+85,Jakob Philippe,Male,Marketing,"$51,910",Kaduna,Good
+86,Monroe Hendrickx,Male,Accounting,"$34,080",Kaduna,Not Rated
+87,Fred Dudeney,Male,Services,"$88,690",Lagos,Poor
+88,Brose MacCorkell,Female,Human Resources,"$35,940",Kaduna,Average
+89,Madelene Upcott,Male,Legal,"$109,190",Abuja,Average
+90,Cara Havers,Male,Marketing,"$89,610",Lagos,Good
+91,Gisella Mewe,Female,Support,"$109,760",Abuja,Good
+92,Daryn Kniveton,Female,Marketing,"$108,390",Lagos,Poor
+93,Stormy Church,Male,Research and Development,"$29,880",Lagos,Very Poor
+94,Cull Nannetti,Male,Support,"$68,090",Kaduna,Average
+95,Shirlene Argo,Female,Services,"$87,210",Abuja,Not Rated
+96,Konstanze Wyleman,Male,Engineering,"$90,800",Abuja,Average
+97,Vernor Atyea,Female,Training,"$102,930",Kaduna,Good
+98,Pedro St. Hill,Male,Engineering,"$73,770",Lagos,Average
+99,Tris Hynard,Female,Product Management,"$29,080",Kaduna,Average
+100,Calvin O'Carroll,Female,Research and Development,"$44,450",Abuja,Very Good
+101,Jessica Burditt,Female,Services,"$97,120",Kaduna,Average
+102,Aurelea Devitt,Male,Support,"$58,840",Abuja,Average
+103,Meryl Waggatt,Female,Business Development,"$77,060",Kaduna,Good
+104,Corri Ellcome,Female,Others,"$81,180",Kaduna,Average
+105,Evyn Fyrth,Male,Support,"$90,080",Kaduna,Average
+106,Car Laden,Male,Product Management,"$73,770",Lagos,Average
+107,Sarene Creeboe,Male,Product Management,"$35,830",Kaduna,Average
+108,Steven Labat,Male,Legal,"$37,110",Kaduna,Average
+109,Lindy Guillet,Male,Training,"$112,780",Abuja,Poor
+110,Loren Rettie,Female,Engineering,"$96,000",Kaduna,Average
+111,Daron Biaggioli,Female,Product Management,"$112,550",Kaduna,Average
+112,Georg Dinnage,Male,Training,"$88,330",Kaduna,Poor
+113,Ewart Hovel,Female,Training,"$116,770",Lagos,Good
+114,Archaimbaud Pinchin,Male,Marketing,"$40,270",Kaduna,Average
+115,Mile Swindley,Male,Business Development,"$73,770",Kaduna,Average
+116,Garwood Penhale,Female,Business Development,"$96,640",Kaduna,Very Good
+117,Valentia Etteridge,Female,Business Development,"$118,100",Lagos,Average
+118,Courtney Given,Male,Engineering,"$43,600",Abuja,Average
+119,Claudetta Petherick,Female,Legal,"$54,520",Abuja,Poor
+120,Eberto William,Female,Research and Development,"$57,750",Abuja,Average
+121,Bernie Gorges,Female,Training,"$99,970",Lagos,Average
+122,Myrle Prandoni,Male,Sales,"$62,200",Kaduna,Very Good
+123,Josepha Keningham,Male,Human Resources,"$42,990",Kaduna,Average
+124,Garrick Hadwick,Male,Support,"$117,810",Abuja,Average
+125,Nessy Baskwell,Male,Services,"$58,130",Kaduna,Average
+126,Rosco Cogley,Male,Services,"$86,840",Abuja,Average
+127,Tulley Chiddy,Female,Accounting,"$73,770",Abuja,Average
+128,Camille Baldinotti,Female,Product Management,"$41,700",Lagos,Good
+129,Dave Lacoste,Male,Legal,"$73,770",Abuja,Average
+130,Crawford Scad,Male,Human Resources,"$72,880",Kaduna,Average
+131,Larry Pioch,Male,Research and Development,"$49,670",Abuja,Good
+132,Judie Di Bernardo,Male,Accounting,"$117,150",Abuja,Average
+133,Kakalina Stanaway,Male,Human Resources,"$97,020",Kaduna,Poor
+134,Max Shower,Male,Training,"$67,510",Kaduna,Not Rated
+135,Juditha Hatherleigh,Female,Human Resources,"$34,830",Kaduna,Average
+136,Lanny Beaney,Male,Legal,"$38,730",Abuja,Average
+137,Jim Perrygo,Male,Services,"$96,790",Lagos,Good
+138,Shannen Crittal,Female,Engineering,"$68,040",Kaduna,Good
+139,Katya Hundy,Male,Business Development,"$88,510",Lagos,Average
+140,Cordelia Djuricic,Female,Human Resources,"$65,350",Abuja,Very Poor
+141,Emory Whitten,Female,Product Management,"$52,000",Lagos,Not Rated
+142,Philis Rowlstone,Female,Human Resources,"$85,740",Lagos,Average
+143,Fedora Graffin,Male,Research and Development,"$92,500",Lagos,Good
+144,Marjie Bamford,Male,Sales,"$80,770",Abuja,Very Good
+145,Doe Clubley,Female,Product Management,"$67,820",Kaduna,Not Rated
+146,Adella Hartshorne,Female,Human Resources,"$41,160",Abuja,Good
+147,Barney Bonafant,Female,Engineering,"$48,060",Abuja,Poor
+148,Nessi Delves,Male,Training,"$56,830",Kaduna,Very Good
+149,Addi Studdeard,Female,Product Management,"$72,500",Lagos,Very Poor
+150,Benoite Ackermann,Female,Services,"$57,080",Abuja,Average
+151,Sharity Brands,Male,Product Management,"$104,080",Abuja,Very Poor
+152,Cassondra Giottini,Male,Marketing,"$73,770",Kaduna,Not Rated
+153,Beryl Burnsyde,Male,Legal,"$29,770",Lagos,Good
+154,Ollie Schirak,Male,Legal,"$48,690",Lagos,Average
+155,Amaleta Baltzar,Male,Research and Development,"$70,080",Lagos,Very Poor
+156,Katya Hundy,Male,Business Development,"$88,510",Kaduna,Poor
+157,Wyn Treadger,Female,Business Development,"$69,190",Abuja,Average
+158,Orton Livick,Male,Services,"$37,920",Abuja,Average
+159,Haven Belward,Male,Accounting,"$89,120",Lagos,Good
+160,Yasmeen Klimkiewich,Female,Legal,"$48,140",Abuja,Very Good
+161,Kristofor Powner,Male,Support,"$69,340",Lagos,Average
+162,Phillipp Nekrews,Male,Human Resources,"$71,330",Kaduna,Very Good
+163,Delora Arendt,Female,Marketing,"$67,620",Abuja,Good
+164,Archibaldo Denny,Female,Product Management,"$69,740",Lagos,Not Rated
+165,Jeane Blaszczak,Female,Engineering,"$44,300",Lagos,Good
+166,Codi Beck,Female,Business Development,"$40,560",Lagos,Poor
+167,Faunie Sinton,Female,Sales,"$115,230",Abuja,Good
+168,Nicol Giacomi,Female,Training,"$39,750",Kaduna,Average
+169,Crawford Scad,Male,Human Resources,"$72,880",Lagos,Average
+170,Vassili Flay,Male,Research and Development,"$108,970",Abuja,Average
+171,Halimeda Kuscha,Female,Engineering,"$112,570",Abuja,Poor
+172,Charmaine Howie,Male,Accounting,"$56,810",Kaduna,Poor
+173,Norrie Grahl,Male,Business Development,"$42,950",Abuja,Poor
+174,Ulick Maingot,Female,Services,"$42,820",Kaduna,Average
+175,Millie Fiveash,Female,Sales,"$57,080",Kaduna,Average
+176,Kayley Southwell,Female,Marketing,"$101,670",Kaduna,Average
+177,Reena McKernan,Female,Marketing,"$104,750",Kaduna,Average
+178,Seward Kubera,Male,Engineering,"$43,330",Abuja,Very Good
+179,Rois Garrigan,Male,Accounting,"$61,430",Kaduna,Poor
+180,Euell Willoughley,Male,Product Management,"$105,800",Kaduna,Very Good
+181,Lindi Morfey,Male,Training,"$99,470",Kaduna,Good
+182,Gradey Litton,Female,Accounting,"$68,890",Kaduna,Good
+183,Iris Wagg,Female,Others,"$58,860",Kaduna,Average
+184,Angeline Christophersen,Female,Engineering,"$86,940",Kaduna,Average
+185,Farrel Vanyatin,Male,Support,"$118,120",Lagos,Average
+186,Kienan Epinay,Male,Marketing,"$91,120",Kaduna,Poor
+187,Aloisia Minto,Male,Research and Development,"$41,420",Abuja,Good
+188,Melisa Knott,Female,Training,"$86,010",Kaduna,Average
+189,Koral Gerriet,Male,Support,"$30,080",Abuja,Average
+190,Constantino Espley,Male,Accounting,"$96,800",Abuja,Average
+191,Desi Peniman,Female,Legal,"$31,090",Lagos,Average
+192,Torrance Collier,Female,Training,"$96,140",Lagos,Good
+193,Ede Mignot,Female,Research and Development,"$98,640",Kaduna,Good
+194,Marcia Muldrew,Female,Sales,"$71,510",Lagos,Good
+195,Quintina Kilgannon,Female,Legal,"$86,490",Kaduna,Poor
+196,Peria Revey,Male,Engineering,"$103,240",Kaduna,Good
+197,Carry Loblie,Female,Sales,"$47,550",Kaduna,Average
+198,Isadora Maunsell,Male,Sales,"$78,490",Abuja,Average
+199,Tamara Couvet,Female,Engineering,"$61,050",Abuja,Average
+200,Von Boeter,Male,Product Management,"$36,370",Lagos,Good
+201,Forester Feakins,Male,Business Development,"$47,290",Abuja,Average
+202,Gardy Eckersall,Male,Sales,"$79,650",Kaduna,Good
+203,Gamaliel Ewins,Male,Product Management,"$119,660",Abuja,Average
+204,Win Arthurs,Female,Support,"$43,200",Abuja,Average
+205,Richy Gray,Female,Product Management,"$89,830",Kaduna,Very Good
+206,Patricia Dwelly,Male,Accounting,"$91,500",Lagos,Poor
+207,Erv Balmann,Female,Services,"$29,670",Lagos,Very Good
+208,Demetria Le Estut,Female,Support,"$75,720",Abuja,Very Poor
+209,Deedee Ciotto,Male,Others,"$34,830",Lagos,Poor
+210,Evanne Sheryn,Female,Services,"$81,900",Abuja,Average
+211,Collette Blackaller,Female,Human Resources,"$42,380",Kaduna,Good
+212,Mariann Mowat,Male,Marketing,"$32,620",Kaduna,Good
+213,Tabbatha Pickston,Male,Marketing,"$72,040",Abuja,Average
+214,Vlad Strangeway,Male,Product Management,"$77,740",Abuja,Good
+215,Duky Wallace,Male,Business Development,"$102,140",Kaduna,Average
+216,Townie Dongall,Male,Legal,"$48,630",Kaduna,Not Rated
+217,Shana Bewly,Female,Legal,"$105,960",Abuja,Poor
+218,Mick Tanguy,Female,Research and Development,"$97,400",Lagos,Good
+219,Tadio Audritt,Male,Human Resources,"$99,450",Abuja,Average
+220,Torey Rosell,Male,Accounting,"$82,670",Kaduna,Average
+221,Chrisy Kyme,Female,Marketing,"$99,200",Lagos,Very Good
+222,Morten Dumphy,Male,Legal,"$111,480",Kaduna,Poor
+223,Issy McLevie,Male,Research and Development,"$84,940",Kaduna,Poor
+224,Michaeline Capehorn,Female,Support,"$95,340",Lagos,Poor
+225,Corny Linturn,Female,Product Management,"$47,960",Kaduna,Poor
+226,Berny Bastide,Male,Research and Development,"$56,710",Kaduna,Average
+227,Aindrea Lenormand,Female,Human Resources,"$71,180",Abuja,Good
+228,Nels McClounan,Male,Training,"$73,770",Abuja,Average
+229,Shanon Deverell,Female,Research and Development,"$78,180",Lagos,Very Good
+230,Vaughn Carvill,Female,Training,"$84,750",Lagos,Average
+231,Kora Allebone,Female,Legal,"$98,970",Lagos,Not Rated
+232,Millard Brakewell,Male,Product Management,"$76,560",Kaduna,Good
+233,Lizzie Mullally,Male,Support,"$73,770",Kaduna,Average
+234,Florie Tortoise,Female,Sales,"$35,930",Abuja,Average
+235,Caro Chappel,Female,Sales,"$104,410",Kaduna,Average
+236,Letisha Carrett,Female,Sales,"$84,600",Abuja,Very Poor
+237,Melva Jickells,Female,Product Management,"$68,800",Lagos,Poor
+238,Sadie Ratt,Male,Others,"$38,660",Lagos,Good
+239,Riccardo Hagan,Male,Human Resources,"$86,560",Abuja,Average
+240,Chauncey Schild,Female,Support,"$107,340",Abuja,Average
+241,Amery Ofer,Female,Legal,"$111,050",Abuja,Very Good
+242,Aube Chadderton,Female,Human Resources,"$73,770",Abuja,Average
+243,Michaella Perri,Male,Training,"$75,320",Lagos,Very Poor
+244,Mord Cromblehome,Male,Legal,"$57,910",Kaduna,Average
+245,Major O'Cahsedy,Female,Legal,"$29,490",Abuja,Not Rated
+246,Joana Bartocci,Male,Human Resources,"$52,670",Kaduna,Average
+247,Sly Cowley,Male,Accounting,"$48,530",Abuja,Average
+248,Augusta Cheetham,Male,Research and Development,"$105,470",Abuja,Average
+249,Diarmid Alman,Female,Training,"$98,200",Abuja,Poor
+250,Gearard Wixon,Male,Human Resources,"$106,190",Abuja,Very Good
+251,Kaye Crocroft,Male,Sales,"$52,610",Lagos,Poor
+252,Egor Minto,Male,Legal,"$63,450",Abuja,Good
+253,Bren Absolon,Male,Accounting,"$74,710",Abuja,Good
+254,Alexine Portail,Female,Sales,"$60,330",Lagos,Average
+255,Duffie Ibel,Male,Sales,"$61,010",Kaduna,Average
+256,Gilles Jaquet,Female,Accounting,"$76,300",Kaduna,Not Rated
+257,Payton Pickervance,Male,Marketing,"$117,020",Kaduna,Average
+258,Barny Fairweather,Male,Marketing,"$77,130",Lagos,Very Poor
+259,Margot Royds,Female,Human Resources,"$106,930",Lagos,Average
+260,Frederik Dartan,Male,Engineering,"$62,090",Abuja,Very Good
+261,Aubert Wedmore.,Female,Marketing,"$61,330",Lagos,Average
+262,Krystal Lambswood,Female,Training,"$41,600",Abuja,Not Rated
+263,Nanice Boatwright,Male,Marketing,"$105,870",Abuja,Very Poor
+264,Northrup Aires,Female,Human Resources,"$118,300",Kaduna,Average
+265,Janina Wolverson,Female,Research and Development,"$99,680",Kaduna,Good
+266,Floria Olivia,Female,Sales,"$101,500",Abuja,Good
+267,Andrea Becker,Female,Human Resources,"$46,160",Kaduna,Average
+268,Louise Lamming,Female,Sales,"$41,930",Lagos,Average
+269,Renaldo Thomassin,Male,Business Development,"$73,360",Kaduna,Average
+270,Carmel Pancoust,Female,Services,"$119,550",Abuja,Good
+271,Tatum Hush,Female,Human Resources,"$53,240",Abuja,Good
+272,Aldrich Glenny,Male,Business Development,"$90,880",Kaduna,Average
+273,Calvin O'Carroll,Female,Research and Development,"$44,450",Kaduna,Very Poor
+274,Griz Thorington,Male,Support,"$47,670",Abuja,Average
+275,Greta Bagehot,Female,Others,"$111,420",Kaduna,Not Rated
+276,Eddy Stolze,Male,Training,"$47,760",Kaduna,Average
+277,L;urette Bontein,Male,Product Management,"$47,650",Abuja,Good
+278,Cindee Saice,Female,Services,"$103,360",Abuja,Very Good
+279,Erin Androsik,Male,Human Resources,"$48,530",Kaduna,Poor
+280,Genovera Ghost,Male,Marketing,"$72,160",Kaduna,Average
+281,Felicdad Heibel,Male,Business Development,"$60,800",Abuja,Average
+282,Jobey Boneham,Female,Services,"$74,010",Kaduna,Average
+283,Radcliffe Fairpool,Female,Services,"$60,760",Lagos,Very Good
+284,Gigi Bohling,Male,Engineering,"$74,550",Lagos,Average
+285,Gare Mattiussi,Male,Engineering,"$32,500",Abuja,Poor
+286,Carlin Demke,Male,Business Development,"$110,040",Lagos,Good
+287,Wilt Wayvill,Female,Legal,"$99,750",Kaduna,Average
+288,Ardyce Eacott,Female,Human Resources,"$92,470",Kaduna,Average
+289,Lane Monteaux,Female,Engineering,"$109,980",Kaduna,Average
+290,Cathi Gillbee,Male,Legal,"$41,790",Abuja,Average
+291,Ronnie Mesias,Male,Support,"$86,360",Kaduna,Very Poor
+292,Hali Behnecke,Male,Human Resources,"$65,570",Kaduna,Very Good
+293,Grady Rochelle,Female,Accounting,"$69,160",Kaduna,Very Good
+294,Crissie Cordel,Female,Product Management,"$41,570",Abuja,Good
+295,Durand Backhouse,Female,Sales,"$83,400",Kaduna,Poor
+296,Wendel Malletratt,Male,Business Development,"$67,660",Kaduna,Very Poor
+297,Shellysheldon Ellerman,Female,Product Management,"$34,470",Abuja,Good
+298,Emmeline Bestwerthick,Female,Sales,"$38,240",Kaduna,Not Rated
+299,Marmaduke Worssam,Female,Engineering,"$78,380",Abuja,Very Poor
+300,Murial Ickovici,Female,Business Development,"$72,500",Lagos,Average
+301,Honoria Cootes,Female,Engineering,"$115,640",Abuja,Average
+302,Garvin Delacroix,Male,Others,"$46,250",Abuja,Average
+303,Merrel Blind,Female,Product Management,"$82,120",Lagos,Average
+304,Rosamond Fishe,Male,Services,"$108,160",Lagos,Good
+305,Shelley Moncreiffe,Male,Sales,"$108,360",Abuja,Average
+306,Cecilla Joselevitch,Female,Human Resources,"$77,840",Abuja,Poor
+307,Jolynn Behnecken,Female,Services,"$85,180",Kaduna,Poor
+308,Adolph McNalley,Male,Business Development,"$85,920",Abuja,Poor
+309,Pippy Roxby,Female,Human Resources,"$106,490",Kaduna,Average
+310,Jessi Calterone,Male,Legal,"$38,520",Lagos,Poor
+311,Moore Gligoraci,Female,Training,"$49,530",Lagos,Average
+312,Mallory Goldsberry,Male,Product Management,"$29,610",Abuja,Average
+313,Nerissa Kavanagh,Male,Training,"$84,170",Abuja,Good
+314,Foss Asquez,Male,Support,"$92,190",Abuja,Average
+315,Ab Lehrian,Male,Others,"$82,240",Lagos,Average
+316,Mickey Pybus,Male,Human Resources,"$87,850",Kaduna,Good
+317,Timmy Brenston,Male,Business Development,"$43,700",Lagos,Average
+318,Romona Melody,Female,Services,"$88,690",Lagos,Not Rated
+319,Bendite Bloan,Male,Marketing,"$31,820",Lagos,Average
+320,Andrea Penfold,Male,Marketing,"$70,230",Kaduna,Average
+321,Shari Pickston,Male,Legal,"$96,320",Abuja,Average
+322,Dennison Crosswaite,Male,Legal,"$90,700",Abuja,Very Poor
+323,Lucias Minico,Female,Services,"$67,960",Kaduna,Average
+324,Helaine Lyddy,Male,Services,"$103,110",Kaduna,Good
+325,Carlene Torry,Female,Engineering,"$59,610",Lagos,Good
+326,Vere Kulic,Male,Legal,"$66,570",Abuja,Poor
+327,Enrichetta Mowles,Female,Accounting,"$74,390",Kaduna,Average
+328,Delinda Snozzwell,Male,Engineering,"$67,010",Abuja,Good
+329,Cecilio Sprankling,Male,Research and Development,"$109,710",Abuja,Average
+330,Nickolai Artin,Female,Product Management,"$110,910",Lagos,Average
+331,Beryl Burnsyde,Male,Legal,"$29,770",Abuja,Very Good
+332,Ambrosio Daniely,Female,Support,"$80,060",Kaduna,Very Good
+333,Simon Kembery,Male,Training,"$99,750",Lagos,Average
+334,Brig Dewi,Male,Sales,"$108,250",Lagos,Average
+335,Althea Bronger,Male,Product Management,"$104,340",Kaduna,Average
+336,Ansley Gounel,Female,Product Management,"$38,440",Lagos,Average
+337,Daven Smout,Female,Support,"$50,800",Abuja,Very Good
+338,Julietta Culross,Female,Others,"$44,400",Lagos,Average
+339,Niall Selesnick,Female,Engineering,"$34,980",Lagos,Good
+340,Lia Lurner,Female,Support,"$77,260",Abuja,Average
+341,Rodrigo Congdon,Female,Legal,"$117,940",Lagos,Average
+342,Brendan Edgeller,Female,Legal,"$31,040",Abuja,Good
+343,Revkah Antonacci,Male,Others,"$109,140",Abuja,Average
+344,Dewey Berthod,Female,Others,"$73,770",Lagos,Average
+345,Fidelio Rigmond,Male,Services,"$96,370",Lagos,Not Rated
+346,Ginger Myott,Female,Services,"$31,170",Abuja,Average
+347,Hatti Vezey,Female,Business Development,"$116,240",Kaduna,Average
+348,Eilis Pavlasek,Male,Product Management,"$115,190",Kaduna,Very Poor
+349,Kellsie Waby,Male,Training,"$79,570",Kaduna,Average
+350,Easter Pyke,Female,Training,"$95,680",Kaduna,Very Good
+351,Inger Andriveaux,Male,Accounting,"$107,110",Abuja,Good
+352,Corina Triner,Male,Sales,"$66,100",Kaduna,Poor
+353,Loralyn Bruton,Male,Legal,"$39,960",Abuja,Average
+354,Clari Boole,Male,Others,"$111,850",Kaduna,Average
+355,Susy Challoner,Female,Business Development,"$29,890",Kaduna,Good
+356,Jan Morforth,Male,Marketing,"$48,170",Abuja,Good
+357,Cindi Stratten,Female,Services,"$99,200",Lagos,Good
+358,Marline Wahncke,Male,Legal,"$72,840",Abuja,Average
+359,Violetta Vial,Male,Engineering,"$68,970",Kaduna,Average
+360,Beatriz Bateson,Male,Marketing,"$89,090",Kaduna,Good
+361,Angeline Christophersen,Female,Engineering,"$86,940",Abuja,Poor
+362,Evangelia Gowers,Male,Business Development,"$118,450",Kaduna,Very Good
+363,Fonzie O'Shea,Male,Product Management,"$80,360",Kaduna,Average
+364,Janene Hairsine,Female,Marketing,"$104,770",Abuja,Average
+365,Linell Compfort,Female,Accounting,"$70,440",Abuja,Very Good
+366,Shaylah Owbrick,Male,Support,"$56,900",Abuja,Average
+367,Erin Androsik,Male,Human Resources,"$48,530",Lagos,Very Good
+368,Honor Herreros,Male,Research and Development,"$73,770",Abuja,Average
+369,Bethanne Leicester,Male,Services,"$72,450",Abuja,Not Rated
+370,Ottilie Vittel,Female,Business Development,"$34,500",Abuja,Not Rated
+371,Barnaby Farnall,Male,Engineering,"$118,800",Kaduna,Very Good
+372,Arlie Newcombe,Male,Accounting,"$73,770",Lagos,Not Rated
+373,Ashien Gallen,Female,Research and Development,"$115,080",Abuja,Very Good
+374,Stan Tolliday,Female,Sales,"$39,540",Lagos,Average
+375,Minetta Parsons,Female,Human Resources,"$110,770",Abuja,Average
+376,Abe Gayter,Male,Training,"$73,770",Lagos,Good
+377,Kissiah Maydway,Male,Accounting,"$106,460",Lagos,Poor
+378,Charline Husset,Male,Support,"$94,530",Abuja,Poor
+379,Lorain Tew,Female,Business Development,"$71,590",Lagos,Poor
+380,North Bertomeu,Female,Marketing,"$104,900",Abuja,Good
+381,Martita Beaumont,Male,Engineering,"$81,790",Lagos,Not Rated
+382,Janaya MacGinlay,Female,Support,"$33,050",Abuja,Average
+383,Cara Havers,Male,Marketing,"$89,610",Kaduna,Very Good
+384,Ancell Moretto,Female,Product Management,"$96,920",Abuja,Very Poor
+385,Minerva Ricardot,Male,Others,"$105,470",Abuja,Not Rated
+386,Toby Brodhead,Female,Accounting,"$98,400",Lagos,Average
+387,Tulley Chiddy,Female,Accounting,"$73,770",Lagos,Very Good
+388,Niles Mahomet,Female,Human Resources,"$50,020",Abuja,Average
+389,Avigdor Karel,Male,Training,"$71,210",Kaduna,Average
+390,Luca Wolstenholme,Male,Engineering,"$53,180",Kaduna,Average
+391,Efrem Mathonnet,Female,Human Resources,"$107,020",Kaduna,Average
+392,Latisha Jolly,Female,Research and Development,"$58,400",Lagos,Average
+393,Quentin Ferraresi,Female,Accounting,"$49,000",Abuja,Good
+394,Marco Wooland,Female,Services,"$85,530",Kaduna,Average
+395,Thekla Lynnett,Male,Training,"$53,950",Lagos,Poor
+396,Pedro Carluccio,Male,Services,"$41,140",Lagos,Average
+397,Caron Kolakovic,Male,Accounting,"$49,920",Kaduna,Average
+398,Debera Gow,Female,Research and Development,"$39,700",Lagos,Average
+399,Hoyt D'Alesco,Male,Sales,"$53,540",Abuja,Poor
+400,Rudyard Tomsa,Female,Marketing,"$43,900",Kaduna,Good
+401,Orran Gritskov,Female,Legal,"$72,700",Lagos,Not Rated
+402,Tyson Prescote,Male,Human Resources,"$29,420",Kaduna,Average
+403,Berenice Osbaldstone,Female,Legal,"$58,280",Abuja,Average
+404,Jessika Jaycocks,Female,Research and Development,"$67,980",Lagos,Average
+405,Gabie Millichip,Male,Legal,"$49,760",Abuja,Very Good
+406,Pearla Beteriss,Male,Services,"$69,910",Kaduna,Good
+407,Harwilll Domotor,Male,Training,"$112,370",Kaduna,Average
+408,Carolina Blumsom,Male,Legal,"$28,580",Abuja,Average
+409,Ryon Baroch,Male,Accounting,"$43,590",Abuja,Poor
+410,Georg Dinnage,Male,Training,"$88,330",Kaduna,Good
+411,Marissa Infante,Male,Training,"$78,840",Lagos,Average
+412,Daisie Dahlman,Female,Human Resources,"$61,990",Lagos,Not Rated
+413,Joli Jodrelle,Male,Services,"$77,100",Kaduna,Good
+414,Jessica Callcott,Female,Marketing,"$66,020",Lagos,Very Good
+415,Michail Sicha,Male,Marketing,"$73,770",Kaduna,Very Poor
+416,Sabina Scorrer,Female,Support,"$70,930",Kaduna,Average
+417,Bayard Gendricke,Male,Legal,"$40,980",Kaduna,Very Poor
+418,Esmaria Denecamp,Male,Marketing,"$48,980",Kaduna,Very Poor
+419,Antone Tolmie,Male,Training,"$110,820",Kaduna,Good
+420,Tammi Lackham,Female,Business Development,"$61,690",Abuja,Good
+421,Northrop Reid,Female,Others,"$51,170",Kaduna,Average
+422,Nananne Gehringer,Male,Support,"$104,800",Lagos,Average
+423,Loren Bentote,Male,Accounting,"$56,280",Kaduna,Poor
+424,Manolo Gasnell,Male,Engineering,"$88,380",Kaduna,Good
+425,Wyatt Clinch,Male,Engineering,"$52,590",Lagos,Good
+426,Giselbert Newlands,Male,Services,"$47,650",Abuja,Poor
+427,Cristal Demangeot,Female,Sales,"$72,350",Abuja,Good
+428,Jaime Dowe,Female,Accounting,"$39,940",Lagos,Average
+429,Addia Penwright,Male,Research and Development,"$28,130",Abuja,Poor
+430,Ali Roubert,Male,Engineering,"$69,460",Abuja,Very Good
+431,Emmye Corry,Male,Services,"$109,030",Abuja,Very Good
+432,Addy Pimblett,Male,Product Management,"$66,460",Lagos,Average
+433,Angela Bangley,Female,Training,"$50,810",Abuja,Not Rated
+434,Elbertine Hiscoe,Female,Training,"$73,770",Abuja,Good
+435,Baudoin Dummigan,Male,Legal,"$114,510",Kaduna,Average
+436,Lissy McCoy,Female,Business Development,"$86,230",Abuja,Poor
+437,Ingunna Wainscoat,Male,Support,"$73,240",Kaduna,Average
+438,Amii Elms,Female,Business Development,"$53,920",Kaduna,Poor
+439,Ignacio Delion,Female,Engineering,"$113,690",Kaduna,Average
+440,Colby Reuven,Male,Business Development,"$101,790",Lagos,Average
+441,Maggee Stiggles,Female,Engineering,"$38,930",Abuja,Average
+442,Kelci Walkden,Male,Human Resources,"$57,090",Kaduna,Very Poor
+443,Bogey Hitcham,Male,Product Management,"$106,170",Lagos,Poor
+444,Pembroke Siflet,Female,Human Resources,"$59,550",Abuja,Average
+445,Adolph Hartin,Male,Product Management,"$89,960",Lagos,Poor
+446,Gisela Wille,Male,Support,"$58,850",Lagos,Poor
+447,Joyce Leyband,Female,Product Management,"$68,200",Lagos,Average
+448,Reube Sushams,Male,Marketing,"$90,130",Kaduna,Good
+449,Mathian MacMeeking,Female,Services,"$45,060",Kaduna,Good
+450,Antonino Forsdicke,Male,Product Management,"$66,370",Lagos,Average
+451,Mick Spraberry,Female,Services,"$85,880",Abuja,Good
+452,Benita Gillice,Male,Accounting,"$73,770",Kaduna,Poor
+453,Caresa Christer,Male,Support,"$59,260",Lagos,Poor
+454,Letizia Hasselby,Male,Legal,"$61,790",Abuja,Average
+455,Luce Beentjes,Male,Training,"$48,180",Abuja,Good
+456,Sammy Gantlett,Female,Product Management,"$74,800",Lagos,Very Poor
+457,Pooh Splevins,Female,Business Development,"$31,020",Lagos,Average
+458,Aeriela Aickin,Male,Product Management,"$37,550",Abuja,Average
+459,Tabbatha Pickston,Male,Marketing,"$72,040",Abuja,Good
+460,Tawnya Tickel,Male,Support,"$118,840",Abuja,Not Rated
+461,Royal Nowakowska,Male,Human Resources,"$79,570",Kaduna,Average
+462,Winny Millam,Female,Business Development,"$94,050",Lagos,Not Rated
+463,Michael Sidry,Male,Product Management,"$81,260",Abuja,Average
+464,Nolan Tortis,Male,Support,"$36,710",Abuja,Average
+465,De witt Lottrington,Female,Sales,"$98,360",Abuja,Very Poor
+466,Baxter Brocks,Female,Human Resources,"$39,680",Abuja,Poor
+467,Joyce Esel,Male,Sales,"$101,390",Kaduna,Good
+468,Van Tuxwell,Female,Business Development,"$80,700",Abuja,Good
+469,Fidela Artis,Female,Sales,"$78,020",Lagos,Average
+470,Dov Thoresby,Male,Support,"$115,490",Abuja,Poor
+471,Aloise MacCathay,Male,Others,"$73,770",Lagos,Average
+472,Cathi Delgardo,Male,Product Management,"$111,910",Abuja,Good
+473,Doro Nolte,Female,Services,"$109,050",Kaduna,Average
+474,Easter Pyke,Female,Training,"$95,680",Abuja,Average
+475,Noll Forbear,Male,Services,"$109,380",Kaduna,Average
+476,Myer McCory,Male,Research and Development,"$69,710",Kaduna,Average
+477,Doralyn Segar,Female,Support,"$30,000",Kaduna,Average
+478,Clo Jimpson,Male,Legal,"$57,620",Lagos,Very Poor
+479,Brose MacCorkell,Female,Human Resources,"$35,940",Lagos,Poor
+480,Audry Yu,Female,Training,"$101,190",Abuja,Average
+481,Dolley Grayley,Female,Legal,"$48,980",Abuja,Very Good
+482,Meredith Rucklidge,Male,Legal,"$115,840",Lagos,Not Rated
+483,Valida Merrigans,Male,Sales,"$73,770",Kaduna,Very Poor
+484,Rory Ravenscroftt,Female,Accounting,"$45,450",Kaduna,Very Good
+485,Verla Timmis,Male,Support,"$54,140",Abuja,Average
+486,Jo Benoi,Female,Human Resources,"$117,520",Kaduna,Average
+487,Marquita Liquorish,Female,Legal,"$73,770",Kaduna,Average
+488,Caty Janas,Male,Accounting,"$93,210",Lagos,Poor
+489,Pennie Walmsley,Male,Support,"$104,470",Lagos,Not Rated
+490,Virge Garfield,Male,Training,"$110,890",Abuja,Poor
+491,Rebecca Shillan,Male,Research and Development,"$73,770",Abuja,Good
+492,Myrilla Mercik,Female,Training,"$96,660",Kaduna,Average
+493,Giacobo Donke,Male,Services,"$118,360",Kaduna,Average
+494,Barbara-anne Kenchington,Female,Support,"$88,030",Abuja,Average
+495,Aida Bleacher,Male,Product Management,"$87,810",Abuja,Not Rated
+496,Cly Vizard,Male,Business Development,"$51,520",Abuja,Average
+497,Aleksandr Botha,Male,Sales,"$60,260",Abuja,Not Rated
+498,Evangelina Lergan,Male,Support,"$61,210",Kaduna,Average
+499,Maritsa Marusic,Male,Research and Development,"$52,750",Kaduna,Average
+500,Tamar MacGilfoyle,Male,Product Management,"$47,270",Kaduna,Average
+501,Chancey Dyos,Male,Sales,"$118,060",Kaduna,Good
+502,Isaak Rawne,Male,Marketing,"$37,360",Lagos,Average
+503,Gideon Hehir,Female,Business Development,"$66,510",Kaduna,Average
+504,Irena Trousdell,Female,Marketing,"$29,530",Kaduna,Very Poor
+505,Gino Groome,Female,Research and Development,"$60,440",Lagos,Very Good
+506,Lamond Douthwaite,Male,Engineering,"$90,530",Lagos,Very Poor
+507,Ebonee Roxburgh,Male,Training,"$67,950",Kaduna,Very Good
+508,Nathanial Brounfield,Male,Accounting,"$105,120",Kaduna,Average
+509,Mallorie Waber,Male,Training,"$60,570",Lagos,Good
+510,Ewart Laphorn,Female,Training,"$119,110",Kaduna,Good
+511,Hilliary Roarty,Male,Services,"$104,770",Kaduna,Poor
+512,Putnem Manchester,Male,Sales,"$70,360",Lagos,Average
+513,Lanie Gatlin,Female,Support,"$45,110",Abuja,Not Rated
+514,Michel Jados,Male,Research and Development,"$73,770",Abuja,Very Poor
+515,Lezlie Philcott,Female,Research and Development,"$73,770",Lagos,Not Rated
+516,Sharl Bendson,Female,Business Development,"$33,630",Abuja,Poor
+517,William Reeveley,Male,Training,"$53,870",Abuja,Good
+518,Granville Stetson,Female,Engineering,"$111,190",Lagos,Average
+519,Mirna Etoile,Female,Legal,"$29,970",Kaduna,Average
+520,Freddie Johnikin,Male,Support,"$64,960",Lagos,Average
+521,Natalee Craiker,Male,Product Management,"$111,230",Abuja,Average
+522,Mariette Daymont,Female,Sales,"$99,530",Abuja,Average
+523,Aldrich Glenny,Male,Business Development,"$90,880",Abuja,Not Rated
+524,Lonny Caen,Female,Research and Development,"$35,980",Lagos,Very Good
+525,Murial Ickovici,Female,Business Development,"$72,500",Kaduna,Good
+526,Kath Bletsoe,Male,Marketing,"$65,700",Abuja,Very Poor
+527,Gayla Blackadder,Female,Services,"$109,170",Lagos,Good
+528,Adela Dowsett,Male,Support,"$95,020",Lagos,Average
+529,Addi Studdeard,Female,Product Management,"$72,500",Abuja,Poor
+530,Sharron Petegree,Female,Product Management,"$87,290",Kaduna,Good
+531,Eleonore Airdrie,Female,Engineering,"$97,110",Abuja,Average
+532,Rhiamon Mollison,Female,Research and Development,"$59,430",Lagos,Average
+533,Karon Oscroft,Male,Marketing,"$112,120",Lagos,Average
+534,Edi Hofton,Male,Research and Development,"$28,160",Abuja,Not Rated
+535,Derk Bosson,Female,Legal,"$75,870",Lagos,Average
+536,Lorrie Derycot,Female,Support,"$93,270",Lagos,Average
+537,Hartwell Pratchett,Female,Training,"$42,730",Lagos,Average
+538,Van Ruseworth,Female,Services,"$80,610",Abuja,Average
+539,Inge Creer,Female,Services,"$69,060",Lagos,Very Poor
+540,Elwira Lyddiard,Male,Product Management,"$31,280",Abuja,Average
+541,Kincaid Hellicar,Male,Business Development,"$96,610",Kaduna,Very Good
+542,Maximo Guirard,Female,Business Development,"$37,020",Kaduna,Average
+543,Alta Kaszper,Male,Training,"$54,970",Lagos,Average
+544,Lamar Blewitt,Male,Services,"$41,910",Lagos,Poor
+545,Hector Isard,Male,Support,"$116,970",Abuja,Very Good
+546,Barbara-anne Kenchington,Female,Support,"$88,030",Kaduna,Very Good
+547,Judi Cosgriff,Female,Human Resources,"$86,390",Abuja,Good
+548,Janean Gostage,Male,Services,"$81,150",Abuja,Not Rated
+549,Delphine Jewis,Female,Accounting,"$71,820",Kaduna,Average
+550,Matias Cormack,Male,Research and Development,"$85,460",Kaduna,Average
+551,Rogers Rosenthaler,Female,Business Development,"$91,190",Lagos,Poor
+552,Clarine Shambrooke,Male,Support,"$93,160",Lagos,Average
+553,Thedrick Rogeon,Male,Marketing,"$110,950",Kaduna,Poor
+554,Roanne Phizacklea,Female,Product Management,"$35,990",Abuja,Average
+555,Devinne Tuny,Male,Engineering,"$39,970",Kaduna,Average
+556,Martelle Brise,Male,Training,"$79,520",Kaduna,Average
+557,Dino Wooderson,Male,Legal,"$52,120",Abuja,Poor
+558,Effie Vasilov,Male,Support,"$60,010",Lagos,Average
+559,Jermaine Steers,Female,Accounting,"$35,440",Abuja,Good
+560,Saunders Blumson,Male,Legal,"$56,370",Abuja,Average
+561,Elliot Revelle,Male,Legal,"$73,770",Abuja,Average
+562,Mora Innett,Female,Legal,"$105,610",Lagos,Poor
+563,Mahalia Larcher,Male,Accounting,"$113,280",Abuja,Good
+564,Dotty Strutley,Female,Engineering,"$41,980",Lagos,Average
+565,Margy Elward,Male,Business Development,"$103,670",Lagos,Average
+566,Danica Nayshe,Female,Services,"$89,690",Kaduna,Good
+567,Shari Pickston,Male,Legal,"$96,320",Lagos,Not Rated
+568,Merrilee Plenty,Female,Research and Development,"$87,620",Abuja,Good
+569,Romona Dimmne,Female,Research and Development,"$48,250",Kaduna,Poor
+570,Lark Ironmonger,Male,Marketing,"$85,780",Abuja,Poor
+571,Aube Chadderton,Female,Human Resources,"$73,770",Lagos,Average
+572,Caritta Searl,Male,Sales,"$54,010",Kaduna,Poor
+573,Ernestus O'Hengerty,Female,Research and Development,"$31,020",Abuja,Average
+574,Camilla Castle,Female,Product Management,"$75,480",Kaduna,Average
+575,Bette-ann Leafe,Male,Human Resources,"$93,500",Abuja,Average
+576,Aurelia Stanners,Female,Services,"$98,630",Lagos,Good
+577,Shelby Buckland,Male,Services,"$76,390",Lagos,Average
+578,Barr Faughny,Female,Marketing,"$68,010",Abuja,Average
+579,Farris Ditchfield,Male,Human Resources,"$58,030",Kaduna,Good
+580,Gerald Caple,Male,Training,"$59,300",Kaduna,Good
+581,Grier Kidsley,Female,Product Management,"$51,800",Abuja,Average
+582,Yves Pawlik,Male,Accounting,"$57,930",Abuja,Very Good
+583,Korney Bockings,Male,Engineering,"$40,530",Lagos,Average
+584,Stephan Bussel,Male,Research and Development,"$48,290",Kaduna,Average
+585,Caron Pleven,Female,Human Resources,"$73,770",Abuja,Average
+586,Jedd Moretto,Male,Support,"$63,720",Kaduna,Very Good
+587,Verney Sloegrave,Male,Sales,"$84,500",Kaduna,Average
+588,Nerita Mycock,Male,Accounting,"$67,430",Kaduna,Average
+589,Mella Northam,Male,Support,"$109,120",Kaduna,Not Rated
+590,Thedrick Bothwell,Male,Business Development,"$69,760",Kaduna,Average
+591,Georgianne Archbutt,Female,Services,"$45,600",Kaduna,Not Rated
+592,Thorvald Milliken,Female,Business Development,"$33,030",Lagos,Good
+593,Aileen McCritchie,Male,Business Development,"$80,170",Lagos,Average
+594,Drusy MacCombe,Male,Training,"$43,510",Kaduna,Average
+595,Cathyleen Hurch,Female,Sales,"$49,390",Lagos,Average
+596,Jannel Labb,Female,Research and Development,"$47,910",Kaduna,Average
+597,Cheryl Mantz,Male,Sales,"$35,740",Kaduna,Good
+598,Madlen Ashburner,Male,Support,"$42,240",Abuja,Very Good
+599,Colly Littledike,Female,Services,"$117,150",Lagos,Average
+600,Karyn Creeghan,Male,Engineering,"$36,540",Kaduna,Good
+601,Edgard Irving,Male,Research and Development,"$87,290",Kaduna,Good
+602,Cyril Medford,Female,Research and Development,"$85,720",Abuja,Average
+603,Kikelia Ellor,Male,Engineering,"$34,620",Kaduna,Very Good
+604,Dael Bugge,Male,Training,"$62,690",Lagos,Poor
+605,Joyce Esel,Male,Sales,"$101,390",Kaduna,Average
+606,Ferrell Skepper,Female,Research and Development,"$30,250",Kaduna,Average
+607,Hannis January,Male,Business Development,"$29,530",Lagos,Not Rated
+608,Pierson Measham,Male,Business Development,"$103,160",Kaduna,Good
+609,Xylina Pargetter,Female,Legal,"$109,790",Kaduna,Average
+610,Aretha Ettridge,Female,Accounting,"$33,760",Abuja,Average
+611,Joshia Farris,Female,Legal,"$36,740",Kaduna,Average
+612,Cathi Delgardo,Male,Product Management,"$111,910",Abuja,Not Rated
+613,Mabel Orrow,Male,Product Management,"$31,240",Abuja,Poor
+614,Alexandros Rackley,Female,Legal,"$75,730",Kaduna,Not Rated
+615,Mickie Dagwell,Male,Engineering,"$50,860",Abuja,Not Rated
+616,Mariette Daymont,Female,Sales,"$99,530",Lagos,Not Rated
+617,Win Arthurs,Female,Support,"$43,200",Abuja,Very Good
+618,Marni Jull,Female,Services,"$84,200",Abuja,Good
+619,Sandy Cadden,Female,Legal,"$95,980",Lagos,Average
+620,Wyn Treadger,Female,Business Development,"$69,190",Kaduna,Good
+621,Marney O'Breen,Female,Product Management,"$65,920",Kaduna,Good
+622,Westbrook Brandino,Male,Legal,"$113,620",Lagos,Poor
+623,Sandi Labat,Male,Sales,"$60,140",Abuja,Average
+624,Leilah Yesinin,Female,Research and Development,"$92,450",Kaduna,Not Rated
+625,Lincoln Greatex,Male,Human Resources,"$34,650",Abuja,Average
+626,Patti Dradey,Male,Services,"$84,740",Lagos,Average
+627,Oona Donan,Female,Business Development,"$88,360",Lagos,Average
+628,Burtie Moulden,Female,Services,"$116,220",Lagos,Poor
+629,Mathian MacMeeking,Female,Services,"$45,060",Lagos,Average
+630,Reg MacMichael,Male,Services,"$106,890",Kaduna,Average
+631,Ignacius Losel,Male,Legal,"$28,480",Kaduna,Poor
+632,Tonia Moules,Female,Business Development,"$73,770",Abuja,Good
+633,Joey Keedwell,Female,Marketing,"$107,440",Kaduna,Poor
+634,Clo Jimpson,Male,Legal,"$57,620",Abuja,Good
+635,Bryant Scamp,Female,Human Resources,"$29,810",Kaduna,Average
+636,Mick Titman,Male,Training,"$105,330",Lagos,Poor
+637,Trudie Couch,Female,Legal,"$43,110",Lagos,Average
+638,Cyndia Skedge,Male,Support,"$52,630",Abuja,Average
+639,Francoise Godbold,Male,Sales,"$46,350",Kaduna,Average
+640,Staford Brood,Female,Others,"$39,800",Kaduna,Good
+641,Filmore Fitzhenry,Male,Human Resources,"$108,170",Kaduna,Not Rated
+642,Berna Dubery,Male,Services,"$69,730",Kaduna,Very Poor
+643,Gerrard Doorey,Male,Product Management,"$110,200",Abuja,Average
+644,Hiram Merkle,Male,Legal,"$116,090",Kaduna,Not Rated
+645,Zebulon Allmen,Male,Business Development,"$52,140",Abuja,Average
+646,Kingsley Hagard,Male,Engineering,"$32,810",Kaduna,Average
+647,My Hanscome,Male,Sales,"$59,430",Lagos,Average
+648,Eldredge MacClure,Male,Legal,"$46,990",Kaduna,Average
+649,Pauletta Falkus,Male,Sales,"$33,560",Kaduna,Average
+650,Deck McCallion,Male,Sales,"$33,890",Abuja,Average
+651,Miguel Woolner,Male,Training,"$51,740",Kaduna,Poor
+652,Yolande O'Dare,Female,Accounting,"$51,650",Abuja,Good
+653,Kit Battlestone,Female,Research and Development,"$115,980",Abuja,Good
+654,Glennis Fussen,Female,Sales,"$58,370",Kaduna,Good
+655,Rhiamon Mollison,Female,Research and Development,"$59,430",Abuja,Average
+656,Theresita Chasmer,Female,Product Management,"$106,670",Lagos,Average
+657,Pippy Shepperd,Female,Accounting,"$44,850",Kaduna,Very Good
+658,Petronella Marusik,Male,Accounting,"$75,600",Abuja,Average
+659,Andria Kimpton,Male,Product Management,"$69,120",Abuja,Average
+660,Jarad Barbrook,Female,Human Resources,"$31,200",Abuja,Very Poor
+661,Dulsea Folkes,Female,Services,"$42,160",Lagos,Very Good
+662,Herschel Wareham,Male,Services,"$110,830",Kaduna,Average
+663,Skip Morkham,Female,Marketing,"$83,180",Kaduna,Average
+664,Merrilee Plenty,Female,Research and Development,"$87,620",Abuja,Very Good
+665,Dayle O'Luney,Female,Research and Development,"$46,750",Abuja,Good
+666,Gray Seamon,Female,Business Development,"$78,540",Kaduna,Average
+667,Krysta Elacoate,Male,Human Resources,"$106,930",Abuja,Very Poor
+668,Abramo Labbez,Female,Research and Development,"$77,000",Lagos,Average
+669,Faun Rickeard,Male,Product Management,"$74,920",Lagos,Average
+670,Jamesy O'Ferris,Male,Accounting,"$36,550",Kaduna,Average
+671,Fanchon Furney,Male,Accounting,"$95,950",Abuja,Average
+672,Pate Beardsley,Male,Services,"$85,880",Lagos,Very Good
+673,Grady Crosgrove,Male,Sales,"$77,910",Kaduna,Average
+674,Darcy Brewitt,Male,Human Resources,"$116,670",Kaduna,Average
+675,Foss Asquez,Male,Support,"$92,190",Kaduna,Not Rated
+676,Gilda Richen,Female,Support,"$71,920",Abuja,Poor
+677,Antonino Forsdicke,Male,Product Management,"$66,370",Abuja,Average
+678,Jobie Basili,Female,Sales,"$39,340",Kaduna,Good
+679,Everard Borer,Female,Marketing,"$73,770",Abuja,Average
+680,Anni Izzard,Male,Human Resources,"$103,490",Abuja,Good
+681,Bebe Pollicott,Female,Legal,"$87,740",Kaduna,Average
+682,Julian Andrassy,Female,Marketing,"$113,980",Lagos,Poor
+683,Shell O'Griffin,Female,Sales,"$73,770",Lagos,Average
+684,Dionne Garrish,Female,Engineering,"$41,600",Abuja,Good
+685,Gilles Jaquet,Female,Accounting,"$76,300",Kaduna,Good
+686,Alexis Gotfrey,Male,Engineering,"$114,470",Lagos,Very Good
+687,Xavier Filipic,Female,Marketing,"$31,050",Kaduna,Good
+688,Liane Bedburrow,Female,Training,"$76,620",Abuja,Average
+689,Meara Darrington,Male,Engineering,"$76,190",Abuja,Poor
+690,Genevra Friday,Female,Research and Development,"$50,450",Lagos,Average
+691,Penni Patemore,Male,Services,"$29,330",Kaduna,Average
+692,Yanaton Wooster,Male,Marketing,"$76,930",Abuja,Average
+693,Hedvige Stelfox,Female,Human Resources,"$33,800",Abuja,Average
+694,Tammy Backson,Female,Marketing,"$44,820",Abuja,Average
+695,Inger Chapelhow,Female,Research and Development,"$84,310",Lagos,Average
+696,Arty Duigan,Male,Legal,"$108,600",Abuja,Very Good
+697,Nani Brockley,Male,Product Management,"$47,000",Abuja,Good
+698,Curtice Advani,Male,Product Management,"$59,810",Lagos,Average
+699,Leela Eckart,Male,Legal,"$90,340",Kaduna,Average
+700,Krystal Lambswood,Female,Training,"$41,600",Kaduna,Poor
+701,Cristal Demangeot,Female,Sales,"$72,350",Kaduna,Poor
+702,Jori Ashleigh,Male,Legal,"$64,270",Abuja,Average
+703,Leslie Baruch,Female,Accounting,"$103,990",Kaduna,Very Good
+704,Helene Bouts,Male,Sales,"$70,380",Lagos,Good
+705,Eleni O'Quin,Male,Legal,"$89,020",Lagos,Average
+706,Alic Bagg,Male,Legal,"$113,750",Kaduna,Average
+707,Maible Azemar,Male,Accounting,"$73,770",Kaduna,Average
+708,Abran Danielsky,Female,Engineering,"$32,720",Kaduna,Average
+709,Halette Yesenev,Male,Services,"$61,920",Kaduna,Average
+710,Cleveland Pottiphar,Female,Marketing,"$74,600",Lagos,Very Good
+711,Osborn Pawle,Male,Training,"$38,030",Abuja,Average
+712,Chas Happel,Female,Services,"$30,940",Kaduna,Very Poor
+713,Roth Bourget,Male,Services,"$28,870",Kaduna,Average
+714,Maisie Shotboulte,Female,Marketing,"$71,210",Abuja,Very Good
+715,Felita Whitloe,Male,Training,"$63,450",Kaduna,Good
+716,Cindi McDuffy,Female,Services,"$87,930",Abuja,Very Poor
+717,Murry Dryburgh,Male,Research and Development,"$69,070",Abuja,Average
+718,Dorise Labat,Male,Business Development,"$101,610",Kaduna,Average
+719,Hephzibah Summerell,Female,Services,"$28,310",Abuja,Average
+720,Alyosha Riquet,Male,Legal,"$89,840",Abuja,Very Good
+721,Maximo Ungerecht,Male,Support,"$96,250",Lagos,Average
+722,Lezlie Balmann,Male,Product Management,"$112,460",Kaduna,Poor
+723,Benny Karolovsky,Male,Human Resources,"$115,440",Abuja,Average
+724,Gretchen Callow,Female,Training,"$33,920",Kaduna,Average
+725,Candace Hanlon,Male,Support,"$46,280",Lagos,Average
+726,Oby Sorrel,Female,Support,"$58,940",Kaduna,Average
+727,Cecilia Marshalleck,Female,Marketing,"$118,980",Abuja,Not Rated
+728,Antonetta Coggeshall,Male,Sales,"$96,750",Kaduna,Average
+729,Purcell Le Pine,Male,Legal,"$101,220",Kaduna,Good
+730,Archibald Dyzart,Male,Product Management,"$63,020",Abuja,Average
+731,Lil Ibberson,Male,Business Development,"$75,920",Kaduna,Good
+732,Karita Vasyanin,Male,Legal,"$93,080",Lagos,Average
+733,Joaquin McVitty,Male,Sales,"$68,860",Lagos,Good
+734,Collen Dunbleton,Male,Engineering,"$118,980",Abuja,Poor
+735,Alysa Wankling,Male,Legal,"$106,460",Lagos,Good
+736,Ardella Dyment,Female,Business Development,"$70,650",Kaduna,Good
+737,Ryun Fasset,Male,Others,"$101,120",Kaduna,Very Good
+738,Rodina Drinan,Female,Sales,"$77,050",Abuja,Good
+739,Louise Lamming,Female,Sales,"$41,930",Abuja,Poor
+740,Marga Lorenzo,Female,Legal,"$89,360",Abuja,Good
+741,Alvie Keming,Female,Legal,"$37,840",Kaduna,Poor
+742,Sheff Gerdts,Male,Business Development,"$89,160",Abuja,Average
+743,Josie Barnson,Female,Training,"$74,110",Kaduna,Very Good
+744,Petey Probey,Male,Services,"$31,630",Kaduna,Poor
+745,Shelbi Aldin,Female,Research and Development,"$40,910",Abuja,Poor
+746,Estell Kingsland,Male,Sales,"$32,190",Kaduna,Average
+747,Lea Chaplin,Female,Human Resources,"$73,490",Kaduna,Poor
+748,Onofredo Hassan,Male,Product Management,"$52,220",Kaduna,Average
+749,Hyacinthie Braybrooke,Female,Support,"$68,900",Abuja,Average
+750,Agnes Collicott,Female,Sales,"$83,750",Abuja,Average
+751,Margarete Blasing,Male,Support,"$110,970",Kaduna,Not Rated
+752,Patience Noot,Female,Business Development,"$49,520",Abuja,Average
+753,Charmane Heistermann,Female,Business Development,"$86,560",Kaduna,Average
+754,Jamal Beagen,Female,Support,"$35,830",Kaduna,Average
+755,Brigid Jeffrey,Female,Support,"$53,910",Kaduna,Good
+756,Nelli Schoolfield,Female,Engineering,"$109,870",Kaduna,Average
+757,Abigael Basire,Male,Engineering,"$61,620",Abuja,Average
+758,Anjanette Ferre,Male,Human Resources,"$67,960",Abuja,Average
+759,Mackenzie Hannis,Female,Training,"$57,000",Abuja,Very Poor
+760,Ambros Murthwaite,Male,Sales,"$70,610",Lagos,Average
+761,Lek Scamaden,Female,Training,"$51,860",Abuja,Good
+762,Jehu Rudeforth,Female,Engineering,"$60,130",Abuja,Average
+763,Bert Yaakov,Male,Research and Development,"$72,040",Kaduna,Poor
+764,Bordy Yatman,Female,Product Management,"$108,450",Lagos,Good
+765,Georgie Caress,Male,Marketing,"$58,260",Abuja,Average
+766,Krysta Elacoate,Male,Human Resources,"$106,930",Kaduna,Average
+767,Jolynn Lumbley,Male,Research and Development,"$70,020",Abuja,Average
+768,Gwendolyn Chrippes,Male,Engineering,"$73,770",Abuja,Good
+769,Blythe Clipston,Female,Human Resources,"$35,670",Kaduna,Average
+770,Sisely Hatchman,Female,Sales,"$73,770",Kaduna,Average
+771,Alicea Pudsall,Male,Accounting,"$67,630",Abuja,Average
+772,Karee Ruslinge,Female,Human Resources,"$82,300",Kaduna,Not Rated
+773,Wilone O'Kielt,Female,Business Development,"$114,870",Lagos,Not Rated
+774,Justino Chapiro,Male,Sales,"$71,030",Lagos,Average
+775,Maritsa Marusic,Male,Research and Development,"$52,750",Abuja,Average
+776,Sisely Gatsby,Female,Support,"$85,670",Kaduna,Average
+777,Shantee D'Antonio,Female,Product Management,"$73,770",Kaduna,Good
+778,Blaire Ruckman,Male,Business Development,"$61,700",Kaduna,Average
+779,William Coveny,Male,Legal,"$66,140",Abuja,Good
+780,Packston Joanic,Male,Marketing,"$51,860",Kaduna,Good
+781,Joana Bartocci,Male,Human Resources,"$52,670",Abuja,Average
+782,Sile Whorton,Female,Legal,"$61,210",Kaduna,Not Rated
+783,Billi Fellgate,Female,Business Development,"$68,980",Kaduna,Average
+784,Franchot Crocken,Female,Accounting,"$29,610",Abuja,Average
+785,Cletus McGarahan,Female,Engineering,"$114,430",Lagos,Good
+786,Callie Duckels,Male,Product Management,"$53,760",Abuja,Average
+787,Roselle Wandrach,Male,Sales,"$91,310",Abuja,Average
+788,Lishe Casemore,Male,Services,"$117,840",Kaduna,Average
+789,Garey Bird,Female,Product Management,"$31,830",Lagos,Average
+790,Toby Micklewright,Male,Legal,"$32,980",Lagos,Not Rated
+791,Dell Molloy,Male,Engineering,"$47,360",Abuja,Poor
+792,Fidela Dowey,Female,Engineering,"$86,740",Lagos,Very Good
+793,Emmanuel Westrey,Female,Support,"$87,400",Kaduna,Average
+794,Abigael Basire,Male,Engineering,"$61,620",Lagos,Poor
+795,Melodie Torresi,Female,Business Development,"$75,090",Lagos,Average
+796,Dewie Stodart,Male,Accounting,"$78,020",Kaduna,Average
+797,Fred Dudeney,Male,Services,"$88,690",Abuja,Very Good
+798,Giffer Berlin,Female,Research and Development,"$92,340",Kaduna,Good
+799,Bealle Glentworth,Male,Others,"$99,480",Abuja,Poor
+800,Van Tuxwell,Female,Business Development,"$80,700",Abuja,Poor
+801,Sarajane Scourge,Female,Business Development,"$58,830",Abuja,Poor
+802,Rose Shurrocks,Female,Research and Development,"$32,140",Kaduna,Good
+803,Mata Fishley,Male,Accounting,"$102,520",Abuja,Poor
+804,Irvine Blenkin,Male,Human Resources,"$79,590",Abuja,Very Poor
+805,Wald Bountiff,Female,Support,"$28,970",Lagos,Very Good
+806,Leonerd Jiru,Female,Marketing,"$73,770",Lagos,Not Rated
+807,Hinda Label,Female,Human Resources,"$92,700",Kaduna,Average
+808,Irwin Kirsche,Female,Accounting,"$36,150",Kaduna,Poor
+809,Sile Whorton,Female,Legal,"$61,210",Abuja,Average
+810,Jill Shipsey,Male,Accounting,"$52,960",Lagos,Average
+811,Nerissa Kavanagh,Male,Training,"$84,170",Lagos,Not Rated
+812,Anabal Cooke,Female,Product Management,"$31,920",Kaduna,Average
+813,Ava Whordley,Female,Product Management,"$104,210",Abuja,Very Good
+814,Laney Thowless,Male,Product Management,"$73,770",Kaduna,Good
+815,Ansley Gounel,Female,Product Management,"$38,440",Abuja,Poor
+816,Cletus McGarahan,Female,Engineering,"$114,430",Kaduna,Very Good
+817,Althea Bronger,Male,Product Management,"$104,340",Kaduna,Poor
+818,Orlando Gorstidge,Male,Marketing,"$40,750",Lagos,Very Poor
+819,Robbert Mandrier,Female,Training,"$98,020",Abuja,Very Good
+820,Twila Roantree,Female,Sales,"$96,620",Lagos,Poor
+821,Archibald Filliskirk,Male,Research and Development,"$40,400",Abuja,Very Good
+822,Denni Wiggans,Male,Product Management,"$81,220",Lagos,Poor
+823,Pyotr Lightewood,Male,Training,"$33,840",Lagos,Not Rated
+824,Shari McNee,Male,Research and Development,"$75,880",Lagos,Average
+825,Issiah Cradick,Male,Engineering,"$81,380",Lagos,Not Rated
+826,Nollie Courteney,Male,Research and Development,"$71,490",Abuja,Not Rated
+827,Tadio Dowdle,Female,Product Management,"$91,930",Kaduna,Average
+828,Ondrea Banfield,Female,Engineering,"$107,790",Kaduna,Average
+829,Asia Jerson,Male,Services,"$73,770",Kaduna,Very Good
+830,Cornie Arstall,Female,Product Management,"$69,970",Abuja,Average
+831,Jeane Blaszczak,Female,Engineering,"$44,300",Lagos,Poor
+832,Hogan Iles,Female,Accounting,"$114,180",Lagos,Very Good
+833,Saundra O'Connel,Male,Human Resources,"$85,330",Abuja,Average
+834,Malva Iacovacci,Female,Others,"$65,130",Abuja,Average
+835,Rosaline Wenderott,Female,Sales,"$36,820",Abuja,Good
+836,Bobina Teale,Male,Marketing,"$116,890",Kaduna,Average
+837,Ruby Cracie,Male,Research and Development,"$78,710",Kaduna,Poor
+838,Sissy Muehle,Female,Accounting,"$86,470",Kaduna,Average
+839,Lonny Caen,Female,Research and Development,"$35,980",Lagos,Good
+840,Itch Tinklin,Female,Support,"$77,110",Abuja,Average
+841,Sibyl Dunkirk,Female,Product Management,"$86,570",Kaduna,Very Poor
+842,Brodie Grimstead,Male,Business Development,"$117,850",Kaduna,Good
+843,Amitie Mawson,Female,Marketing,"$116,500",Lagos,Not Rated
+844,Dane Wudeland,Female,Accounting,"$80,030",Kaduna,Poor
+845,Yvette Bett,Male,Human Resources,"$76,320",Lagos,Good
+846,Ianthe Sayre,Male,Support,"$110,730",Abuja,Very Good
+847,Jacklyn Andrioletti,Female,Training,"$86,990",Abuja,Poor
+848,Eliza Hoggan,Female,Legal,"$73,770",Lagos,Average
+849,Conchita Soden,Male,Marketing,"$74,410",Abuja,Good
+850,Reggie Taylerson,Male,Marketing,"$87,610",Lagos,Good
+851,Leslie Cardoso,Female,Business Development,"$103,340",Abuja,Good
+852,Milton Lilie,Female,Business Development,"$46,470",Kaduna,Average
+853,Aeriell Cuell,Male,Legal,"$108,290",Abuja,Very Poor
+854,Anne-corinne Daulby,Male,Engineering,"$78,640",Lagos,Good
+855,Lisle Danahar,Male,Sales,"$75,990",Kaduna,Average
+856,Bryana Loyns,Male,Sales,"$55,280",Kaduna,Average
+857,Anjela Spancock,Male,Accounting,"$98,010",Lagos,Average
+858,Daisie McNeice,Male,Human Resources,"$50,310",Kaduna,Average
+859,Jillana Gabbitis,Male,Marketing,"$91,360",Kaduna,Average
+860,Roddy Speechley,Male,Accounting,"$115,920",Abuja,Good
+861,Oran Buxcy,Female,Engineering,"$56,870",Lagos,Poor
+862,Beverie Moffet,Female,Support,"$75,970",Abuja,Very Good
+863,Novelia Pyffe,Male,Accounting,"$52,270",Kaduna,Good
+864,Dare Tully,Male,Business Development,"$39,780",Lagos,Not Rated
+865,Lilyan Klimpt,Male,Services,"$58,960",Lagos,Average
+866,Jo-anne Gobeau,Female,Training,"$37,900",Abuja,Good
+867,Sheff Gerdts,Male,Business Development,"$89,160",Lagos,Good
+868,Florinda Crace,Female,Sales,"$45,510",Abuja,Good
+869,Dominic Ortler,Female,Product Management,"$66,610",Abuja,Average
+870,Cathrin Yanuk,Male,Sales,"$44,120",Lagos,Very Poor
+871,Austine Littlewood,Female,Services,"$32,270",Abuja,Average
+872,Alford Gerardi,Female,Engineering,"$37,130",Lagos,Not Rated
+873,Cullie Bourcq,Female,Sales,"$45,590",Abuja,Good
+874,Emanuel Beldan,Male,Accounting,"$94,070",Abuja,Average
+875,Danica Nayshe,Female,Services,"$89,690",Kaduna,Not Rated
+876,Hildagard Reece,Female,Services,"$41,220",Lagos,Average
+877,Kai Ryder,Female,Accounting,"$119,930",Lagos,Average
+878,Alfred Peplay,Female,Human Resources,"$60,580",Kaduna,Not Rated
+879,Jeannie Petracco,Female,Engineering,"$94,820",Abuja,Average
+880,Brad Gumb,Male,Accounting,"$38,830",Kaduna,Good
+881,Bonnie Newland,Male,Others,"$91,450",Abuja,Average
+882,Reinald Franken,Female,Engineering,"$28,870",Abuja,Very Good
+883,Carolyn Attack,Female,Marketing,"$70,760",Lagos,Good
+884,Bogey Hitcham,Male,Product Management,"$106,170",Abuja,Good
+885,Naoma Cruse,Male,Research and Development,"$71,540",Kaduna,Average
+886,Oates Dinan,Female,Research and Development,"$104,680",Lagos,Average
+887,Daphne Francillo,Male,Training,"$63,370",Lagos,Average
+888,Kissiah Maydway,Male,Accounting,"$106,460",Lagos,Good
+889,Trix Lutsch,Male,Business Development,"$106,400",Lagos,Average
+890,Carolin Fieldstone,Female,Marketing,"$36,920",Kaduna,Average
+891,Dulsea Folkes,Female,Services,"$42,160",Abuja,Average
+892,Corabel Luberto,Female,Human Resources,"$57,820",Kaduna,Average
+893,Nicola Kiely,Female,Business Development,"$93,740",Kaduna,Average
+894,Rey Chartman,Female,Training,"$93,960",Kaduna,Poor
+895,Israel Farndon,Male,Marketing,"$107,220",Lagos,Average
+896,Felipe Parkman,Female,Training,"$90,150",Abuja,Very Good
+897,Margit Kunze,Male,Engineering,"$94,020",Abuja,Good
+898,Oliy Feeney,Female,Marketing,"$42,970",Lagos,Good
+899,Sandie Anthonies,Male,Legal,"$33,410",Kaduna,Average
+900,Anni Dinse,Male,Product Management,"$119,670",Lagos,Average
+901,Gaultiero Have,Male,Accounting,"$115,380",Kaduna,Average
+902,Corinna Griffiths,Male,Support,"$75,010",Kaduna,Good
+903,Cherlyn Barter,Female,Accounting,"$104,120",Abuja,Good
+904,Shea Mix,Male,Research and Development,"$82,680",Lagos,Very Poor
+905,Leonidas Cavaney,Male,Accounting,"$52,250",Kaduna,Very Poor
+906,Tallie Chaikovski,Male,Sales,"$83,190",Lagos,Average
+907,Andria Kimpton,Male,Product Management,"$69,120",Kaduna,Average
+908,Rik Delete,Female,Training,"$73,770",Kaduna,Good
+909,Bill Luffman,Male,Others,"$41,570",Abuja,Average
+910,Codie Gaunson,Male,Accounting,"$83,590",Abuja,Poor
+911,Kaine Padly,Male,Research and Development,"$107,700",Abuja,Very Good
+912,Freda Legan,Female,Sales,"$102,130",Kaduna,Average
+913,Hiram Merkle,Male,Legal,"$116,090",Kaduna,Average
+914,Christos Wintle,Male,Engineering,"$74,360",Lagos,Good
+915,Magnum Locksley,Female,Services,"$42,310",Abuja,Not Rated
+916,Adrianne Gave,Male,Engineering,"$78,440",Lagos,Poor
+917,Warner Carwithan,Female,Support,"$113,760",Kaduna,Good
+918,Appolonia Snook,Female,Services,"$93,880",Kaduna,Average
+919,Alikee Jecock,Female,Legal,"$85,000",Kaduna,Poor
+920,Shay Chasney,Male,Human Resources,"$72,550",Lagos,Average
+921,Trey Jurges,Female,Legal,"$72,360",Kaduna,Poor
+922,Tracy Renad,Female,Accounting,"$114,890",Abuja,Average
+923,Sarajane Peachey,Female,Marketing,"$107,580",Abuja,Poor
+924,Bili Sizey,Male,Research and Development,"$36,040",Abuja,Average
+925,Clement Penhearow,Female,Others,"$58,310",Kaduna,Average
+926,Shaun Kyrkeman,Male,Product Management,"$35,010",Kaduna,Average
+927,Leena Bruckshaw,Male,Research and Development,"$74,280",Lagos,Average
+928,Benni Simounet,Male,Research and Development,"$115,790",Lagos,Very Poor
+929,Kay Edling,Male,Support,"$38,330",Lagos,Average
+930,Shayne Stegel,Male,Business Development,"$70,270",Abuja,Very Good
+931,Floyd Cowgill,Male,Support,"$37,060",Kaduna,Average
+932,Claretta MacQuist,Male,Human Resources,"$73,770",Abuja,Average
+933,Inger Chapelhow,Female,Research and Development,"$84,310",Abuja,Good
+934,Brien Boise,Female,Research and Development,"$58,100",Kaduna,Very Good
+935,Pancho De Ortega,Male,Support,"$99,780",Kaduna,Very Good
+936,Edd MacKnockiter,Male,Accounting,"$119,020",Lagos,Poor
+937,Hobie Stockbridge,Male,Engineering,"$92,940",Lagos,Good
+938,Ludovika Plaice,Male,Training,"$59,670",Kaduna,Not Rated
+939,Odessa Pusill,Female,Others,"$41,000",Lagos,Not Rated
+940,Caro Hainsworth,Male,Marketing,"$77,470",Kaduna,Good
+941,Nicolis Winspire,Male,Engineering,"$45,650",Lagos,Good
+942,Niko MacGille,Female,Engineering,"$88,430",Lagos,Average
+943,Evanne Levens,Male,Human Resources,"$36,880",Kaduna,Good
+944,Trix Lutsch,Male,Business Development,"$106,400",Abuja,Poor
+945,Michale Rolf,Male,Services,"$111,820",Lagos,Very Good
+946,Cecilla Northen,Male,Human Resources,"$92,870",Abuja,Average
+947,Cyrillus Garci,Male,Business Development,"$100,360",Lagos,Average
+948,Dayle O'Luney,Female,Research and Development,"$46,750",Lagos,Average
+949,Gunar Cockshoot,Male,Business Development,"$48,950",Abuja,Good
+950,Silva Monte,Male,Sales,"$52,810",Abuja,Poor
+951,Hans Bucke,Male,Legal,"$78,560",Kaduna,Very Poor
+952,Elia Cockton,Female,Support,"$75,280",Kaduna,Average
+953,Freddy Linford,Female,Training,"$93,130",Kaduna,Poor
+954,Gwenore Scotchmer,Female,Business Development,"$105,290",Kaduna,Very Poor
+955,Maggie Ruberti,Male,Training,"$108,340",Kaduna,Not Rated
+956,Desi Peniman,Female,Legal,"$31,090",Kaduna,Average
+957,Allyce Hincham,Male,Business Development,"$101,420",Lagos,Average
+958,Juanita Trembey,Male,Business Development,"$54,780",Kaduna,Very Good
+959,Lincoln Cord,Female,Support,"$63,560",Abuja,Very Good
+960,Kerwin Blakely,Male,Research and Development,"$68,480",Lagos,Poor
+961,Granny Spencelayh,Male,Legal,"$99,460",Abuja,Average
+962,Collin Jagson,Male,Services,"$100,420",Abuja,Poor
+963,Monti Burdus,Female,Human Resources,"$39,650",Abuja,Average
+964,Konstantin Timblett,Female,Training,"$56,250",Abuja,Average
+965,Fax Scotland,Female,Marketing,"$57,640",Abuja,Average
+966,Isidora Guido,Male,Engineering,"$43,150",Abuja,Very Good
+967,Erv Havill,Female,Accounting,"$106,080",Abuja,Not Rated
+968,Yoshiko Tamblingson,Male,Sales,"$29,590",Kaduna,Good
+969,Barri Teacy,Female,Accounting,"$86,240",Lagos,Average
+970,Alisha Bloschke,Male,Product Management,"$36,480",Abuja,Average
+971,Jerrilee Maginot,Male,Business Development,"$73,770",Kaduna,Average
+972,Adi Seawright,Female,Marketing,"$48,590",Kaduna,Very Poor
+973,Eward Astlett,Male,Engineering,"$41,670",Lagos,Average
+974,Chauncey Schild,Female,Support,"$107,340",Lagos,Very Good
+975,Larissa Ingledow,Male,Research and Development,"$62,280",Kaduna,Not Rated
+976,Orton Livick,Male,Services,"$37,920",Abuja,Not Rated
+977,Jolynn Edkins,Female,Support,"$73,770",Kaduna,Average
+978,Beverie Moffet,Female,Support,"$75,970",Kaduna,Average
+979,Katey Cadany,Male,Services,"$92,010",Abuja,Very Poor
+980,Alida Welman,Male,Human Resources,"$69,860",Lagos,Poor
+981,Nicole Blowfelde,Female,Training,"$59,560",Kaduna,Very Good
+982,Kelley Rounds,Female,Engineering,"$114,810",Kaduna,Average
+983,Felice McMurty,Female,Product Management,"$66,870",Abuja,Not Rated
+984,Layton Kierans,Male,Human Resources,"$113,790",Kaduna,Very Poor
+985,Hedwiga Ingarfield,Female,Legal,"$38,250",Kaduna,Average
+986,Frasquito Mosley,Male,Support,"$48,090",Abuja,Not Rated
+987,Amandy Jope,Male,Accounting,"$99,630",Abuja,Average
+988,Tarrah Wordsworth,Female,Product Management,"$86,340",Abuja,Poor
+989,Fairfax Wallsam,Male,Sales,"$88,590",Abuja,Average
+990,Chelsea Itzak,Male,Support,"$61,100",Kaduna,Average
+991,Craggie Whistlecraft,Male,Product Management,"$71,240",Abuja,Average
+992,Faina Durand,Male,Sales,"$114,650",Kaduna,Very Poor
+993,Joella Maevela,Female,Sales,"$76,210",Kaduna,Good
+994,Virginia McConville,Female,Human Resources,"$76,900",Abuja,Very Good
+995,Candy Aindrais,Female,Business Development,"$116,590",Lagos,Very Good
+996,Allene Gobbet,Female,Engineering,"$78,390",Abuja,Average
+997,Ruthanne Beadnell,Female,Accounting,"$103,610",Kaduna,Poor
+998,Ruthanne Beadnell,Female,Accounting,"$103,610",Kaduna,Poor
+999,Damien Netley,Male,Engineering,"$98,110",Abuja,Good
+1000,Rasia Fryatt,Female,Human Resources,"$33,960",Lagos,Not Rated
+1001,Bev Lashley,Male,Business Development,"$112,110",Kaduna,Not Rated
+1002,Curtice Advani,Male,Product Management,"$59,810",Lagos,Good
+1003,Madge McCloughen,Male,Training,"$91,310",Kaduna,Average
+1004,Frasier Straw,Male,Business Development,"$71,370",Lagos,Average
+1005,Dean Biggam,Female,Training,"$71,570",Abuja,Not Rated
+1006,Anni Dinse,Male,Product Management,"$119,670",Lagos,Not Rated
+1007,Husein Augar,Female,Marketing,"$67,910",Kaduna,Average
+1008,Shaylyn Ransbury,Female,Support,"$100,370",Abuja,Average
+1009,Christoph Stretton,Female,Business Development,"$90,240",Abuja,Poor
+1010,Jordain Cyster,Female,Engineering,"$75,870",Kaduna,Average
+1011,Malory Biles,Female,Training,"$58,740",Kaduna,Not Rated
+1012,Adey Ryal,Female,Legal,"$32,500",Lagos,Average
+1013,Adey Ryal,Female,Legal,"$32,500",Lagos,Average
