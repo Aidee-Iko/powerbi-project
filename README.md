@@ -7,7 +7,7 @@ This is an an interactive HR analytics dashboard that shows key employee metrics
 # Purpose
 This dashboard helps HR managers and decision-makers to:
 
-- Analysis employee population
+- Analyze employee population
 - Identify patterns in employee performance
 - Track salary distribution by location
 - Gain insights in gender distribution 
