@@ -59,7 +59,8 @@ To provide a simple yet powerful and insightful tool for HR professionals to:
 
  ### 📸Screenshot
  
-![Image](https://github.com/user-attachments/assets/7da8d9ec-0532-4bd8-a3a8-58741add9d9a)
+<img width="890" height="493" alt="image" src="https://github.com/user-attachments/assets/73428518-8d13-4177-a15d-be7848bfc527" />
+
 
  ### Created By
  [LinkedIn](https://www.linkedin.com/in/idara-obongiko)
