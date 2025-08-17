@@ -59,7 +59,8 @@ To provide a simple yet powerful and insightful tool for HR professionals to:
 
  ### 📸Screenshot
  
-<img width="890" height="493" alt="image" src="https://github.com/user-attachments/assets/73428518-8d13-4177-a15d-be7848bfc527" />
+<img width="889" height="495" alt="image" src="https://github.com/user-attachments/assets/921f24ec-197d-4d6d-82d5-ea3133bc52b7" />
+
 
 
  ### Created By
